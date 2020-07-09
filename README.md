@@ -2,6 +2,11 @@
 
 Online Demo: https://rodydavis.github.io/dart-material-webcomponents/
 
+- Hot Reload
+- Dart Files and Packages
+- JS Files
+- Html Files
+
 To run the application run the following script:
 
 ```
