@@ -1,0 +1,17 @@
+{
+    "name": "dart-web-material",
+    "description": "Dart Material Example",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@material/mwc-button": "^0.17.2",
+        "@material/mwc-icon-button": "^0.17.2",
+        "@material/mwc-top-app-bar-fixed": "^0.17.2",
+        "@webcomponents/webcomponentsjs": "2.4.3",
+        "lit-element": "2.3.1"
+    },
+    "devDependencies": {
+        "@rollup/plugin-node-resolve": "^8.1.0",
+        "rollup": "^2.21.0"
+    }
+}
